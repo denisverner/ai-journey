@@ -1,1 +1,1 @@
-# ai-journey
+# AI learning journey
